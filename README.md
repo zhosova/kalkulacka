@@ -1,4 +1,4 @@
 # kalkulacka
 
-Vítejte na mém depozitáři pro úžasnou kalkulačku.
+random depozitář, na kterém se učím práci s gh
 
